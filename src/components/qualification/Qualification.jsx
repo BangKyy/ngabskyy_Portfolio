@@ -81,8 +81,8 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification-title">Graphic Design</h3>
-                                <span className="qualification-subtitle">Pixellab and Adobe</span>
+                                <h3 className="qualification-title">Graphic Designer</h3>
+                                <span className="qualification-subtitle">Canva and Adobe</span>
                                 <div className="qualification-calender">
                                     <i className="uil uil-calendar-alt"></i> 2020 - Present
                                 </div>
@@ -91,7 +91,7 @@ const Qualification = () => {
 
                         <div className="qualification-data">
                             <div>
-                                <h3 className="qualification-title">Web Development</h3>
+                                <h3 className="qualification-title">Web Developer</h3>
                                 <span className="qualification-subtitle">Visual Code</span>
                                 <div className="qualification-calender">
                                     <i className="uil uil-calendar-alt"></i> 2020 - Present

@@ -11,7 +11,7 @@ const Framework = () =>{
                         <i class='bx bx-badge-check'></i>
                         <div>
                             <h3 className="skills-name">React JS</h3>
-                            <span className="skills-level">Beginner</span>
+                            <span className="skills-level">Intermediate</span>
                         </div>
                     </div>
 

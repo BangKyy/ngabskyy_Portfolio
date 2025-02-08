@@ -17,6 +17,9 @@ import Work4Certificate from "../../assets/sertifikat7.jpg";
 import Work5Certificate from "../../assets/sertifikat8.jpg";
 import Work6Certificate from "../../assets/sertifikat1.jpg";
 import Work7Certificate from "../../assets/sertifikat2.jpg";
+import Work8Certificate from "../../assets/sertifikat9.jpg";
+import Work9Certificate from "../../assets/sertifikat10.jpg";
+import Work1Others from "../../assets/Cover_Concept-books.png";
 
 export const projectsData = [
     {
@@ -56,14 +59,14 @@ export const projectsData = [
       link: "https://drive.google.com/file/d/1b_qSud6eXRveLY1zU0smCvI6aeq4ZQOP/view?usp=drive_link"
       // link: "https://www.instagram.com/p/DAwJvWyhmCr/?igsh=bXd5cnl5dXJ2N2w="
     },
-    {
-      id: 6,
-      image: Work2Poster,
-      title: "Cat Poster Design",
-      category: "poster",
-      link : "https://drive.google.com/file/d/17i1Ewk1SEtzgWXv5EWVoe0uJgRifqQKV/view?usp=drive_link"
-      // link: "https://www.instagram.com/p/DAwJvWyhmCr/?igsh=bXd5cnl5dXJ2N2w="
-    },
+    // {
+    //   id: 6,
+    //   image: Work2Poster,
+    //   title: "Cat Poster Design",
+    //   category: "poster",
+    //   link : "https://drive.google.com/file/d/17i1Ewk1SEtzgWXv5EWVoe0uJgRifqQKV/view?usp=drive_link"
+    //   // link: "https://www.instagram.com/p/DAwJvWyhmCr/?igsh=bXd5cnl5dXJ2N2w="
+    // },
     {
       id: 7,
       image: Work3Poster,
@@ -154,6 +157,25 @@ export const projectsData = [
       image: Work7Certificate,
       title: "Python Course",
       category: "certificate"
+    },
+    {
+      id: 20,
+      image: Work8Certificate,
+      title: "Javascript Course",
+      category: "certificate"
+    },
+    {
+      id: 21,
+      image: Work9Certificate,
+      title: "LKMM PRA-TD SERTIF PESERTA",
+      category: "certificate"
+    },
+    {
+      id: 22,
+      image: Work1Others,
+      title: "Koalidra Concept Books",
+      category: "others",
+      link: "https://heyzine.com/flip-book/c2dbfca3e8.html"
     },
   ];
 
