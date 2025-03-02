@@ -6,6 +6,7 @@ import Work1Poster from "../../assets/design2.png";
 import Work2Poster from "../../assets/design3.jpg";
 import Work3Poster from "../../assets/design4.png";
 import Work4Poster from "../../assets/design5.jpg";
+import Work5Poster from "../../assets/design6.jpg";
 import Work1Web from "../../assets/web3.png";
 import Work2Web from "../../assets/web4.png";
 import Work3Web from "../../assets/web5.png";
@@ -20,6 +21,8 @@ import Work7Certificate from "../../assets/sertifikat2.jpg";
 import Work8Certificate from "../../assets/sertifikat9.jpg";
 import Work9Certificate from "../../assets/sertifikat10.jpg";
 import Work1Others from "../../assets/Cover_Concept-books.png";
+import Work2Others from "../../assets/other1.jpg";
+import Work3Others from "../../assets/other2.jpg";
 
 export const projectsData = [
     {
@@ -85,97 +88,119 @@ export const projectsData = [
     },
     {
       id: 9,
+      image: Work5Poster,
+      title: "Starbucks Menu Poster Design",
+      category: "poster",
+      link: "https://drive.google.com/drive/folders/12ba-ULaKb2tcPDwZqFpIge2aUtd7xdzG?usp=drive_link"
+      // link: "https://www.instagram.com/p/DAwJvWyhmCr/?igsh=bXd5cnl5dXJ2N2w="
+    },
+    {
+      id: 10,
       image: Work1Web,
       title: "Movies Information Website",
       category: "website",
       link: "https://kyy-movies.netlify.app/"
     },
     {
-      id: 10,
+      id: 11,
       image: Work2Web,
       title: "PMR Event Website",
       category: "website",
       link: "https://baratamadyaxi-smanta.netlify.app/"
     },
     {
-      id: 11,
+      id: 12,
       image: Work3Web,
       title: "SMAN Science Six Class Website",
       category: "website",
       link: "https://sman1talun.sch.id/sciesixx/"
     },
     {
-      id: 12,
+      id: 13,
       image: Work4Web,
       title: "PT Rumah Mesin Kreatif Website",
       category: "website",
       link: "https://rumek.netlify.app"
     },
     {
-      id: 13,
+      id: 14,
       image: Work1Certificate,
       title: "Belajar Dasar Pemrograman Web",
       category: "certificate",
       link: "https://www.dicoding.com/certificates/QLZ9775KEP5D"
     },
     {
-      id: 14,
+      id: 15,
       image: Work2Certificate,
       title: "Python Fundamental",
       category: "certificate",
       link: "https://www.dicoding.com/certificates/QLZ97GY67P5D"
     },
     {
-      id: 15,
+      id: 16,
       image: Work3Certificate,
       title: "AI Fundamental",
       category: "certificate",
       link: "https://www.dicoding.com/certificates/MEPJNN444X3V"
     },
     {
-      id: 16,
+      id: 17,
       image: Work4Certificate,
       title: "Data Visualization Fundamental",
       category: "certificate",
       link: "https://www.dicoding.com/certificates/JLX17J3Q5X72"
     },
     {
-      id: 17,
+      id: 18,
       image: Work5Certificate,
       title: "SQL Fundamental",
       category: "certificate",
       link: "https://www.dicoding.com/certificates/JLX17J7EGX72"
     },
     {
-      id: 18,
+      id: 19,
       image: Work6Certificate,
       title: "Website Development",
       category: "certificate"
     },
     {
-      id: 19,
+      id: 20,
       image: Work7Certificate,
       title: "Python Course",
       category: "certificate"
     },
     {
-      id: 20,
+      id: 21,
       image: Work8Certificate,
       title: "Javascript Course",
       category: "certificate"
     },
     {
-      id: 21,
+      id: 22,
       image: Work9Certificate,
       title: "LKMM PRA-TD SERTIF PESERTA",
       category: "certificate"
     },
     {
-      id: 22,
+      id: 23,
       image: Work1Others,
       title: "Koalidra Concept Books",
       category: "others",
       link: "https://heyzine.com/flip-book/c2dbfca3e8.html"
+    },
+    {
+      id: 24,
+      image: Work2Others,
+      title: "Redesign Packaging Indomie Original",
+      category: "others",
+      link: "https://drive.google.com/drive/folders/1NlpDC3p4DFKKMz6KOgRqyIa_tN0OA-FE?usp=drive_link"
+    },
+    {
+      id: 25,
+      image: Work3Others,
+      title: "Design Indomie X Timnas Indonesia",
+      category: "others",
+      link: "https://drive.google.com/drive/folders/1s7uc63A9qnDwO5qo1J0K54CQPnn_wUTS?usp=drive_link"
     },
   ];
 

@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.9d25cbfa.css",
-    "main.js": "/static/js/main.57813ccc.js",
+    "main.js": "/static/js/main.4b6f9ebe.js",
     "static/media/design4.png": "/static/media/design4.511ba09cfca1f219bc2d.png",
     "static/media/web5.png": "/static/media/web5.a7048c8d6aa47040c6b5.png",
     "static/media/web3.png": "/static/media/web3.c8a6f967b4666cfe7216.png",
+    "static/media/design6.jpg": "/static/media/design6.ded9a580b807b65e53c5.jpg",
     "static/media/sertifikat9.jpg": "/static/media/sertifikat9.427fa63b79c80654a894.jpg",
     "static/media/web4.png": "/static/media/web4.7a796ca7318439e43622.png",
     "static/media/design2.png": "/static/media/design2.5a05f4f6d69dd619e459.png",
     "static/media/UIX2.png": "/static/media/UIX2.0874cfe662626677b8c8.png",
+    "static/media/other1.jpg": "/static/media/other1.168c772418621f694763.jpg",
     "static/media/web6.png": "/static/media/web6.d3d21fca9fb3edbde773.png",
+    "static/media/other2.jpg": "/static/media/other2.e37969d59c3b100dc15d.jpg",
     "static/media/design3.jpg": "/static/media/design3.8935ef7cec3c5a5f1938.jpg",
     "static/media/about.jpg": "/static/media/about.276019d1bba88623443b.jpg",
     "static/media/sertifikat10.jpg": "/static/media/sertifikat10.1c000d52cbba5edccd43.jpg",
@@ -30,10 +33,10 @@
     "static/media/kyyLogoBlack.svg": "/static/media/kyyLogoBlack.25ca4335ad4ec92e6a7c68f288e46ce6.svg",
     "index.html": "/index.html",
     "main.9d25cbfa.css.map": "/static/css/main.9d25cbfa.css.map",
-    "main.57813ccc.js.map": "/static/js/main.57813ccc.js.map"
+    "main.4b6f9ebe.js.map": "/static/js/main.4b6f9ebe.js.map"
   },
   "entrypoints": [
     "static/css/main.9d25cbfa.css",
-    "static/js/main.57813ccc.js"
+    "static/js/main.4b6f9ebe.js"
   ]
 }
